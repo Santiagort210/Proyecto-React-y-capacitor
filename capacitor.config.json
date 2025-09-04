@@ -1,0 +1,5 @@
+{
+  "appId": "com.pong.app",
+  "appName": "PongGame",
+  "webDir": "dist"
+}
